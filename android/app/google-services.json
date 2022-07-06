@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466712316423",
+    "project_id": "lifeplus-87f30",
+    "storage_bucket": "lifeplus-87f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466712316423:android:d4b00407e4679b56ef38a2",
+        "android_client_info": {
+          "package_name": "com.example.lifeplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466712316423-t345enru1j2t8029tuc91ouhq15v1ita.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHoDT_-oV1j2MtiaWT0P7pIv-GQ0FRKKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466712316423-t345enru1j2t8029tuc91ouhq15v1ita.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
